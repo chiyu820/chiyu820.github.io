@@ -1,0 +1,7 @@
+body 
+  {background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8PHB-F12rVNcP6jpwlvKnBvnRWDUxj9CrXg&usqp=CAU");   }
+#head {height: 70px;background-color: #3C3C3C;color: #fff;text-align: center;font-size: 50px;}
+
+#left{float:left;background:#FFECF5;width:20%;}
+#center {float:left;width:60%;opacity:1.5;height: 710px;}   
+#right{float:right;background:#FFECF5;width:20%;height: 710px
